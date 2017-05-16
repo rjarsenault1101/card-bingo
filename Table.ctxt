@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Table()
+comment1.params=
+comment1.target=java.util.ArrayList\ deckGen()
+comment2.params=
+comment2.target=void\ shuffle()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=numCards\ cardNumber
+comment4.target=int\ placementX(int,\ int)
+comment4.text=\n\ places\ a\ card\ in\ an\ evenly\ spaced\ out\ X-coordinate\ location\ in\ the\ middle\n\ of\ the\ scree\n
+comment5.params=numCards\ cardNumber
+comment5.target=int\ placementY(int,\ int)
+comment5.text=\n\ places\ a\ card\ in\ an\ evenly\ spaced\ out\ Y-coordinate\ location\ in\ the\ middle\n\ of\ the\ screen\n
+comment6.params=
+comment6.target=void\ flip15()
+comment7.params=c
+comment7.target=void\ discard(Card)
+comment8.params=mouseX1\ mouseY1
+comment8.target=Card\ findCard(int,\ int)
+numComments=9

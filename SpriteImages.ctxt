@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=spriteNumber
+comment0.target=java.awt.image.BufferedImage\ getSprite(int)
+comment0.text=\n\ getSprite\ -\ given\ a\ sprite\ number,\ returns\ a\ BufferedImage\ containing\ the\n\ sprite.\n
+comment1.params=
+comment1.target=void\ loadSprites()
+comment1.text=\n\ loadSprites\ -\ helper\ method\ to\ load\ the\ sprites\ into\ a\ static\ array.\n
+comment2.params=
+comment2.target=void\ shrinkSprites()
+comment3.params=img\ newW\ newH
+comment3.target=java.awt.image.BufferedImage\ resize(java.awt.image.BufferedImage,\ int,\ int)
+numComments=4
